@@ -5,7 +5,7 @@ item_no	col_name	var_name	col_type
 8	PAYMCARE	medicare_payment	i
 16	USETOBAC	tobacco	i
 25	PASTVIS	past_visits	i
-26	MAJOR	major_reason	i
+26	MAJOR	major_reason	c
 27	DIAG1	dx1	c
 28	DIAG2	dx2	c
 29	DIAG3	dx3	c

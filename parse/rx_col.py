@@ -1,8 +1,10 @@
 #!/usr/bin/env python3
 
-start = 466
+start_dat = {2011: 173, 2014: 466}
 
-for rx_i in range(10):
+start = start_dat[2011]
+
+for rx_i in range(8):
     n = '{:d}'.format(rx_i + 1)
     n0 = '{:02d}'.format(rx_i + 1)
 
