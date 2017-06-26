@@ -14,14 +14,6 @@ col_types = do.call(cols_only, setNames(as.list(column_specs$col_type), column_s
 
 value_at = function(x, options, outputs) outputs[match(x, options)]
 
-rx_continued_f = function(x) {
-  case_when(x == -9 ~ 'blank',
-            x == -8 ~ 'bad value (-8)',
-            x == -7 ~ 'not applicable (no drug)',
-            x == 1 ~ 'new',
-            x == 2 ~ 'continued')
-}
-
 dat = read_csv('raw/namcs2014.csv', col_types=col_types, na=character()) %>%
   setNames(column_specs$var_name) %>%
   mutate(sex=value_at(sex, c(1, 2), c('female', 'male')),
