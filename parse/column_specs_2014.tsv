@@ -4,10 +4,7 @@ item_no	col_name	var_name	col_type
 6	sex	sex	i
 7	pregnant	pregnant	i
 13	racereth	race	i
-16	paymcare	medicare_payment	i
 24	usetobac	tobacco	i
-41	pastvis	past_visits	i
-42	major	major_reason	i
 43	diag1	dx1	c
 45	diag2	dx2	c
 47	diag3	dx3	c
@@ -15,7 +12,6 @@ item_no	col_name	var_name	col_type
 59	copd	copd	i
 70	totchron	n_chronic_conditions	i
 95	psa	psa_test	i
-109	chlamyd	chlamydia_test	i
 216	med	any_medication	i
 247	ncmed1	rx01_continued	i
 248	ncmed2	rx02_continued	i
@@ -25,8 +21,6 @@ item_no	col_name	var_name	col_type
 252	ncmed6	rx06_continued	i
 253	ncmed7	rx07_continued	i
 254	ncmed8	rx08_continued	i
-255	ncmed9	rx09_continued	i
-256	ncmed10	rx10_continued	i
 280	noprovid	provider_no_answer	i
 281	phys	provider_physician	i
 282	physasst	provider_physician_asst	i

@@ -1,0 +1,16 @@
+col_name	code	value
+sex	1	female
+sex	2	male
+racereth	1	white
+racereth	2	black
+racereth	3	hispanic
+racereth	4	other
+usetobac	-9	blank
+usetobac	-8	unknown
+usetobac	1	never smoked
+usetobac	2	former smoker
+usetobac	3	current smoker
+region	1	northeast
+region	2	midwest
+region	3	south
+region	4	west
