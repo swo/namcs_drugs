@@ -1,0 +1,28 @@
+category	desc
+001	anti-infectives
+008	carbapenems
+009	cephalosporins
+010	leprostatics
+011	macrolide derivatives
+012	misc. abx
+013	penicillins
+014	quinolones
+015	sulfonamides
+016	tetracyclines
+017	urinary anti-infectives
+018	aminoglycosides
+240	lincomycin derivatives
+315	glycylcyclines
+406	glycopeptides
+159	1st gen. cephalosporins
+160	2nd gen. cephalosporins
+161	3rd gen. cephalosporins
+162	4th gen. cephalosporins
+379	5th gen. cephalosporins
+304	macrolides
+305	ketolides
+222	penicillinase-resistant penicillins
+223	antipseudomonal penicillins
+224	aminopenicillins
+225	beta-lactamase inhibitors
+226	natural penicillins
