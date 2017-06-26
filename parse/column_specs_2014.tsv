@@ -4,10 +4,13 @@ item_no	col_name	var_name	col_type
 6	sex	sex	i
 7	pregnant	pregnant	i
 13	racereth	race	i
+16	paymcare	medicare_payment	i
 24	usetobac	tobacco	i
 43	diag1	dx1	c
 45	diag2	dx2	c
 47	diag3	dx3	c
+50	pastvis	past_visits	i
+51	major	major_reason	i
 53	asthma	asthma	i
 59	copd	copd	i
 70	totchron	n_chronic_conditions	i
