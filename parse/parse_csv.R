@@ -55,4 +55,4 @@ parse_year = function(year) {
     write_tsv(dx_fn)
 }
 
-for (y in c(2011, 2014)) parse_year(y)
+for (y in 2011:2014) parse_year(y)
