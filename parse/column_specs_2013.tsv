@@ -15,6 +15,14 @@ item_no	col_name	var_name	col_type
 75	totchron	n_chronic_conditions	i
 100	psa	psa_test	i
 193	med	any_medication	i
+195	med1	rx01_old_id	i
+197	med2	rx02_old_id	i
+199	med3	rx03_old_id	i
+201	med4	rx04_old_id	i
+203	med5	rx05_old_id	i
+205	med6	rx06_old_id	i
+207	med7	rx07_old_id	i
+209	med8	rx08_old_id	i
 213	ncmed1	rx01_continued	i
 214	ncmed2	rx02_continued	i
 215	ncmed3	rx03_continued	i
